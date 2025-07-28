@@ -1,6 +1,6 @@
 # Explainable Anomaly Detection in Chatbot-Driven E-Commerce Sessions
 
-This repository contains the full pipeline described in our DSS journal manuscript:
+This repository contains the full pipeline described in our journal manuscript:
 
 **Manuscript Title:**  
 *Detecting Behavioral Anomalies in Chatbot-Driven E-Commerce Sessions: An Explainable Machine Learning Approach*
