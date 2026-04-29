@@ -1,9 +1,9 @@
-# Explainable Anomaly Detection in Chatbot-Driven E-Commerce Sessions
+# Explainable Anomaly Detection in E-Commerce Sessions
 
 This repository contains the full pipeline described in our journal manuscript:
 
 **Manuscript Title:**  
-*Detecting Behavioral Anomalies in Chatbot-Driven E-Commerce Sessions: An Explainable Machine Learning Approach*
+*G3AD: A Granular Three-Way Anomaly Detection Framework for User Session Integrity in Online Platforms*
 
 ---
 
