@@ -3,7 +3,7 @@
 This repository contains the full pipeline described in our journal manuscript:
 
 **Manuscript Title:**  
-*G3AD: A Granular Three-Way Anomaly Detection Framework for User Session Integrity in Online Platforms*
+*An Explainable Framework for Behavioral Data Integrity in AI-Driven E-Commerce*
 
 ---
 
